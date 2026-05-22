@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Dallas
+
+> Geotechnical engineering services in Dallas, United States.
+
+## Services
+- [Anchors](https://dallas.geotechnicalengineering1.com/anchors/)
+- [Atterberg Limits](https://dallas.geotechnicalengineering1.com/atterberg-limits/)
+- [Cbr Road](https://dallas.geotechnicalengineering1.com/cbr-road/)
+- [Cpt Test](https://dallas.geotechnicalengineering1.com/cpt-test/)
+- [Deep Excavations](https://dallas.geotechnicalengineering1.com/deep-excavations/)
+- [Excavation Monitoring](https://dallas.geotechnicalengineering1.com/excavation-monitoring/)
+- [Excavations](https://dallas.geotechnicalengineering1.com/excavations/)
+- [Flexible Pavement](https://dallas.geotechnicalengineering1.com/flexible-pavement/)
+- [Footings](https://dallas.geotechnicalengineering1.com/footings/)
+- [Foundations](https://dallas.geotechnicalengineering1.com/foundations/)
+- [Grain Size](https://dallas.geotechnicalengineering1.com/grain-size/)
+- [Ground Improvement](https://dallas.geotechnicalengineering1.com/ground-improvement/)
+- [Grouting](https://dallas.geotechnicalengineering1.com/grouting/)
+- [In Situ Permeability](https://dallas.geotechnicalengineering1.com/in-situ-permeability/)
+- [Investigation](https://dallas.geotechnicalengineering1.com/investigation/)
+- [Lab In Situ](https://dallas.geotechnicalengineering1.com/lab-in-situ/)
+- [Laboratory](https://dallas.geotechnicalengineering1.com/laboratory/)
+- [Liquefaction](https://dallas.geotechnicalengineering1.com/liquefaction/)
+- [Masw](https://dallas.geotechnicalengineering1.com/masw/)
+- [Mat Foundations](https://dallas.geotechnicalengineering1.com/mat-foundations/)
+- [Piles](https://dallas.geotechnicalengineering1.com/piles/)
+- [Proctor Tests](https://dallas.geotechnicalengineering1.com/proctor-tests/)
+- [Resistivity](https://dallas.geotechnicalengineering1.com/resistivity/)
+- [Retaining Walls](https://dallas.geotechnicalengineering1.com/retaining-walls/)
+- [Rigid Pavement](https://dallas.geotechnicalengineering1.com/rigid-pavement/)
+- [Road Geotechnics](https://dallas.geotechnicalengineering1.com/road-geotechnics/)
+- [Sand Cone Density](https://dallas.geotechnicalengineering1.com/sand-cone-density/)
+- [Seismic](https://dallas.geotechnicalengineering1.com/seismic/)
+- [Seismic Isolation](https://dallas.geotechnicalengineering1.com/seismic-isolation/)
+- [Seismic Microzonation](https://dallas.geotechnicalengineering1.com/seismic-microzonation/)
+- [Seismic Refraction](https://dallas.geotechnicalengineering1.com/seismic-refraction/)
+- [Slope Stability](https://dallas.geotechnicalengineering1.com/slope-stability/)
+- [Slopes](https://dallas.geotechnicalengineering1.com/slopes/)
+- [Soft Ground Tunnels](https://dallas.geotechnicalengineering1.com/soft-ground-tunnels/)
+- [Spt Drilling](https://dallas.geotechnicalengineering1.com/spt-drilling/)
+- [Stone Columns](https://dallas.geotechnicalengineering1.com/stone-columns/)
+- [Test Pits](https://dallas.geotechnicalengineering1.com/test-pits/)
+- [Triaxial](https://dallas.geotechnicalengineering1.com/triaxial/)
+- [Vibrocompaction](https://dallas.geotechnicalengineering1.com/vibrocompaction/)
+
+## Contact
+- Website: https://dallas.geotechnicalengineering1.com/
+
+## About
+This site provides geotechnical engineering services in Dallas, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
